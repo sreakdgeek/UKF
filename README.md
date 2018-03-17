@@ -17,7 +17,7 @@ Original paper is described here: https://www.seas.harvard.edu/courses/cs281/pap
 
 ### UKF Road Map
 
-[image1]
+![alt text][image1]
 
 ---
 
@@ -25,16 +25,16 @@ Original paper is described here: https://www.seas.harvard.edu/courses/cs281/pap
 
 #### Graph for Dataset 1
 
-[image2]
+![alt text][image2]
 
 
 #### Graph for Dataset 2
 
-[image3]
+![alt text][image3]
 
 ---
 
 #### RMSE
 
-[image4]
+![alt text][image4]
 
